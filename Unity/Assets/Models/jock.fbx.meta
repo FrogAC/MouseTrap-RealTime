@@ -1336,17 +1336,22 @@ ModelImporter:
     2100004: aiStandardSurface4
     2100006: eye_white_mat
     2100008: temp_eye_mat
+    2100010: jock_jacket_mat
+    2100012: outside_jacket_mat
+    2100014: letter_mat
     4300000: hair_geo
     4300002: body_geo
     4300004: nose_geo
     4300006: left_eye_geo
     4300008: right_eye_geo
+    4300010: shirt_geo
     9500000: //RootNode
     13700000: body_geo
     13700002: hair_geo
     13700004: left_eye_geo
     13700006: nose_geo
     13700008: right_eye_geo
+    13700010: shirt_geo
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -1398,7 +1403,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 0
-    previousCalculatedGlobalScale: 0.001
+    previousCalculatedGlobalScale: 0.1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
