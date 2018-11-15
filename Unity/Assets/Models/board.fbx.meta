@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 8074aa71c783c5749a206753e5a50f78
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ball_hoop
+    100002: bathtub
+    100004: //RootNode
+    100006: board
+    100008: boot
+    100010: bucket
+    100012: cage
+    100014: cage_post
+    100016: cogbase
+    100018: crank
+    100020: gearsupport
+    100022: hand
+    100024: handpost
+    100026: hands_support
+    100028: lightpost
+    100030: redcog
+    100032: slide
+    100034: stairs
+    100036: stop_sign
+    100038: supportbase
+    100040: teetertotter
+    100042: tub
+    100044: tubbase
+    100046: yellowcog
+    400000: ball_hoop
+    400002: bathtub
+    400004: board
+    400006: //RootNode
+    400008: boot
+    400010: bucket
+    400012: cage
+    400014: cage_post
+    400016: cogbase
+    400018: crank
+    400020: gearsupport
+    400022: hand
+    400024: handpost
+    400026: hands_support
+    400028: lightpost
+    400030: redcog
+    400032: slide
+    400034: stairs
+    400036: stop_sign
+    400038: supportbase
+    400040: teetertotter
+    400042: tub
+    400044: tubbase
+    400046: yellowcog
+    2100000: game_board_mat
+    2100002: plastic_yellow_mat
+    2100004: plastic_green_mat
+    2100006: plastic_red_mat
+    2100008: plastic_blue_mat
+    2300000: ball_hoop
+    2300002: bathtub
+    2300004: board
+    2300006: boot
+    2300008: bucket
+    2300010: cage
+    2300012: cage_post
+    2300014: cogbase
+    2300016: crank
+    2300018: gearsupport
+    2300020: hand
+    2300022: handpost
+    2300024: hands_support
+    2300026: lightpost
+    2300028: redcog
+    2300030: slide
+    2300032: stairs
+    2300034: stop_sign
+    2300036: supportbase
+    2300038: teetertotter
+    2300040: tub
+    2300042: tubbase
+    2300044: yellowcog
+    3300000: ball_hoop
+    3300002: bathtub
+    3300004: board
+    3300006: boot
+    3300008: bucket
+    3300010: cage
+    3300012: cage_post
+    3300014: cogbase
+    3300016: crank
+    3300018: gearsupport
+    3300020: hand
+    3300022: handpost
+    3300024: hands_support
+    3300026: lightpost
+    3300028: redcog
+    3300030: slide
+    3300032: stairs
+    3300034: stop_sign
+    3300036: supportbase
+    3300038: teetertotter
+    3300040: tub
+    3300042: tubbase
+    3300044: yellowcog
+    4300000: board
+    4300002: cogbase
+    4300004: lightpost
+    4300006: boot
+    4300008: stop_sign
+    4300010: yellowcog
+    4300012: gearsupport
+    4300014: crank
+    4300016: redcog
+    4300018: slide
+    4300020: supportbase
+    4300022: hands_support
+    4300024: bathtub
+    4300026: ball_hoop
+    4300028: handpost
+    4300030: hand
+    4300032: teetertotter
+    4300034: stairs
+    4300036: bucket
+    4300038: tubbase
+    4300040: cage_post
+    4300042: cage
+    4300044: tub
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
