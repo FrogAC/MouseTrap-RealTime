@@ -35,7 +35,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4340633699542404}
   - component: {fileID: 114858397605375162}
-  - component: {fileID: 114758297115228916}
   - component: {fileID: 114503188535316666}
   m_Layer: 0
   m_Name: CMS3_100_ShyGirl
@@ -97,7 +96,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1915826906699894}
-  m_LocalRotation: {x: 0.04644802, y: 0.87530905, z: 0.08584334, w: -0.47361118}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.4499998, y: 1.51, z: 5.61}
   m_LocalScale: {x: 0.99999976, y: 1, z: 0.99999976}
   m_Children:
@@ -111,14 +110,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1085832134566350}
-  m_LocalRotation: {x: -0.1741367, y: -0.76938695, z: 0.06321672, w: -0.61132956}
-  m_LocalPosition: {x: -15.28, y: 6.41, z: 12.28}
+  m_LocalRotation: {x: -0.06783218, y: -0.9505204, z: 0.10310679, w: 0.28509438}
+  m_LocalPosition: {x: -0.96, y: 1.87, z: 3.42}
   m_LocalScale: {x: 1.0000008, y: 1, z: 1.0000004}
   m_Children:
   - {fileID: 4094443845487760}
   m_Father: {fileID: 4951300158328988}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 48.22, y: 89.08501, z: 4.7660003}
+  m_LocalEulerAnglesHint: {x: 48.789, y: -103.37, z: -0.41200003}
 --- !u!4 &4951300158328988
 Transform:
   m_ObjectHideFlags: 1
@@ -226,27 +225,6 @@ MonoBehaviour:
       enableFptlForForwardOpaque: 1
       enableBigTilePrepass: 1
       isFptlEnabled: 1
---- !u!114 &114758297115228916
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1085832134566350}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 82e62c82b3be64042ac529dee964cc2f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_ShowImage: 1
-  m_Image: {fileID: 2800000, guid: 2af4112e66992e24ca1d9209d95316ab, type: 3}
-  m_Aspect: 0
-  m_Alpha: 1
-  m_Center: {x: 0, y: 0}
-  m_Rotation: {x: 0, y: 0, z: 0}
-  m_Scale: {x: 1, y: 1}
-  m_SyncScale: 1
-  m_MuteCamera: 0
-  m_SplitView: 0
 --- !u!114 &114858397605375162
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -333,6 +311,14 @@ PlayableDirector:
   - key: {fileID: 0}
     value: {fileID: 0}
   - key: {fileID: 0}
+    value: {fileID: 0}
+  - key: {fileID: 114744126528075270, guid: c63bebaf896dacc4a9fb9cb6ac017600, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 114103197157421738, guid: c63bebaf896dacc4a9fb9cb6ac017600, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 114947587498063210, guid: c63bebaf896dacc4a9fb9cb6ac017600, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 114776430036709604, guid: c63bebaf896dacc4a9fb9cb6ac017600, type: 2}
     value: {fileID: 0}
   m_ExposedReferences:
     m_References:
