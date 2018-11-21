@@ -3913,6 +3913,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children:
   - {fileID: 114001538412845292}
+  - {fileID: 114989486370653890}
   m_Clips: []
   m_Version: 1
 --- !u!114 &114783696567887318
@@ -3969,5 +3970,24 @@ MonoBehaviour:
   - {fileID: 114565913867176570}
   - {fileID: 114084401482087072}
   - {fileID: 114783696567887318}
+  m_Clips: []
+  m_Version: 1
+--- !u!114 &114989486370653890
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05acc715f855ced458d76ee6f8ac6c61, type: 3}
+  m_Name: Cinemachine Track (1)
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114683507049068690}
+  m_Children: []
   m_Clips: []
   m_Version: 1
