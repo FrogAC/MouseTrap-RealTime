@@ -8,9 +8,15 @@ https://drive.google.com/open?id=1gBFaGOI3lLB_xCjMvg1LZI8W7LIN7X5g6yRNOOQqMiI
 
 <b>Hierarchy</b>
 
-Unity Project: Unity/
+Unity Project: **Unity/**
 
-Reference Image: Document/Reference Image/
+Reference Image: **Documentation/Reference Image/**
+
+Screenshot: **Documentation/Screenshots/**
+
+Pipeline Doc: **Documentation/**
+
+Material Doc: **Documentation/**
 
 <b>How to play: </b>
 Open the Unity project with the version 2.16(for sss material) or above.
