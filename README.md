@@ -1,3 +1,10 @@
+HOW TO USE:
+
+Navigate to the Unity Project (folder name: Unity).
+And click on "play" to review the animatic in game mode.
+
+
+---------------------------------------------------------------------
 Moustrap in RealTime
 
 Team Members:
