@@ -1,6 +1,6 @@
 <b> <h1>Moustrap in RealTime</b></h1>
 <i>
-Team Members: Shubhankar Seth|Dana Spillinger|Jailiang Liu|Daoyi Zhu|Sharanya Sudhakar
+Team Members: Shubhankar Seth | Dana Spillinger | Jailiang Liu | Daoyi Zhu | Sharanya Sudhakar
 </i>
 
 <u>Docs: </u>
