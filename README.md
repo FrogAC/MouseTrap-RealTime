@@ -11,3 +11,14 @@ https://drive.google.com/open?id=1gBFaGOI3lLB_xCjMvg1LZI8W7LIN7X5g6yRNOOQqMiI
 Unity Project: Unity/
 
 Reference Image: Document/Reference Image/
+
+<b>How to play: </b>
+Open the Unity project with the version 2.7 or above.
+Bake it for a few minutes.
+Click on the play button.
+
+Currently, there is a long clip that the two male mice are staring at each other.
+We will fix it then. Furthermore, the cheese at last is not on the girl's hands because we are going to 
+revise something later.
+
+Thanks for watching!
