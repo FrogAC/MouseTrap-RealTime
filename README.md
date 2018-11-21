@@ -13,8 +13,7 @@ Unity Project: Unity/
 Reference Image: Document/Reference Image/
 
 <b>How to play: </b>
-Open the Unity project with the version 2.7 or above.
-Bake it for a few minutes.
+Open the Unity project with the version 2.16(for sss material) or above.
 Click on the play button.
 
 Currently, there is a long clip that the two male mice are staring at each other.
