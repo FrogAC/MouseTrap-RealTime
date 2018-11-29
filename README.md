@@ -3,6 +3,8 @@
 Team Members: Shubhankar Seth | Dana Spillinger | Jailiang Liu | Daoyi Zhu | Sharanya Sudhakar
 </i>
 
+Release: https://github.com/SharanyaSudhakar/MouseTrap-RealTime/releases
+
 <u>Docs: </u>
 https://drive.google.com/open?id=1gBFaGOI3lLB_xCjMvg1LZI8W7LIN7X5g6yRNOOQqMiI
 
