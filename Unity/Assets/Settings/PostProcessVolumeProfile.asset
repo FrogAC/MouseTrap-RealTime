@@ -46,7 +46,7 @@ MonoBehaviour:
     value: 3
   toneCurveToeStrength:
     overrideState: 1
-    value: 0.301
+    value: 0.251
   toneCurveToeLength:
     overrideState: 1
     value: 0.234
@@ -58,7 +58,7 @@ MonoBehaviour:
     value: 0.5
   toneCurveShoulderAngle:
     overrideState: 1
-    value: 0.526
+    value: 0.334
   toneCurveGamma:
     overrideState: 1
     value: 1.2
@@ -82,17 +82,17 @@ MonoBehaviour:
     overrideState: 0
     value: 0
   saturation:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 3
   brightness:
     overrideState: 0
     value: 0
   postExposure:
-    overrideState: 1
+    overrideState: 0
     value: -0.2
   contrast:
     overrideState: 1
-    value: 0
+    value: 10
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
@@ -1361,7 +1361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3f6f3f7c722b4544b97e3c75840aa33, type: 3}
   m_Name: AutoExposure
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   enabled:
     overrideState: 1
     value: 1
@@ -1478,19 +1478,19 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.25
+    value: 1.2
   threshold:
     overrideState: 1
     value: 0.9
   softKnee:
     overrideState: 0
-    value: 0.5
+    value: 0.543
   clamp:
     overrideState: 0
     value: 65472
   diffusion:
     overrideState: 1
-    value: 8
+    value: 8.64
   anamorphicRatio:
     overrideState: 0
     value: 0
